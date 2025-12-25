@@ -1,0 +1,2 @@
+# naimda
+ Subdomain Takeover
